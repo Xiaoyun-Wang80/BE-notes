@@ -750,7 +750,7 @@ U_3=20-0.2(15/2)=18.5.
 **公式（13）**
 
 ```math
-U_i=(1-\lambda_i)\pi_i+lambda_i\left[\delta_i\min_j\pi_j+(1-\delta_i)\Pi\right],
+U_i=(1-\lambda_i)\pi_i+\lambda_i\left[\delta_i\min_j\pi_j+(1-\delta_i)\Pi\right],
 \quad\Pi=\sum_j\pi_j.
 ```
 
